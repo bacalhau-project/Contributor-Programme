@@ -1,5 +1,5 @@
-# Contributor-Programme
-Information and links on how to get involved in the Expanso Contributor Programme
+# Expanso Contributor Programme
+Information and links on how to get involved in the Expanso Contributor Programme.
 
 ## What is the Expanso Contributor Programme?
 
