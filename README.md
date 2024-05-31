@@ -58,3 +58,15 @@ To help kick you off and hopefully spark some ideas in you, here’s a few thing
 - Managing data from different Cloud services with Bacalhau
 
 But, if you have a great idea, and it doesn’t quite fit into those areas, *[tell us about it anyway!](https://forms.gle/mu1WMxFKiYSB36eZ7)* We love to hear from people who’ve had great ideas and want to share them with the world.
+
+## Guidelines and Best Practices
+
+In order to guarantee the success of the Expanso Contributor Programme, we have some guidelines and best practices to govern submissions and content:
+
+- **Quality over Quantity**: Focus on creating high quality deliverables. While there are benefits to having a great volume of content, we firmly believe that the quality of a piece is measured not in its size, but in the learnings conveyed in it. If you need extra time or help to work on the piece, let us know.
+
+- **Talk to us**: If you get stuck, encounter any issues or need a helping hand, don't hesitate to reach out to us. We’re here to help, and we want to help you put together the best piece of content we can.
+
+- **Stick to the Timeline**: We like to move fast here at Expanso, but we also like to keep our output as consistent as possible. In the kick-off session, we’ll agree a timeline to work to, with established check-in points. Ideally, the pieces are focussed, get straight to the point, and shouldn’t take more than a week or so to put together. If you need an extension, let us know as quickly as possible, and we’ll do everything we can to make that happen.
+
+- **Collaborate and Learn**: Engage with other contributors, share insights, and learn from each other. The Bacalhau community thrives on collaboration and your contributions will add to its strength.
