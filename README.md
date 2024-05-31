@@ -5,7 +5,7 @@ Information and links on how to get involved in the Expanso Contributor Programm
 
 Through the Expanso Contributor Programme, we invite anybody who would like to publish technical content about Bacalhau - whether it be blogs, workshops or thought leadership - to reach out to us with their ideas, collaborate with us on the piece, and publish it across our network and platforms.
 
-You can find out more [here](https://expanso.io).
+You can find out more [here](https://blog.bacalhau.org/p/work-with-us-introducing-the-expanso).
 
 [Idea submission form](https://forms.gle/mu1WMxFKiYSB36eZ7)
 
